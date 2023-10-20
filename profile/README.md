@@ -1,4 +1,4 @@
-[![YFOSP Banner](https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20%27Your%20First%20Open%20Source%20Project%27%20%E2%AD%90&width=1000&size=35)](https://git.io/typing-svg)
+[![YFOSP Banner](https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20%27Your%20First%20Open%20Source%20Project%27%20%E2%AD%90&width=1000&size=30)](https://git.io/typing-svg)
 
 ## About Us 🌎
 
