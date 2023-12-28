@@ -16,7 +16,7 @@ Our community website which has been developed by our very own community members
 4. Check out other code repositories in our organization and make contributions to them as well.
 5. Follow [@melvincwng](https://github.com/melvincwng) to stay updated on the latest news and announcements for this community.
 
-## Checkout the following repositories below 👇
+## Check out the following repositories below 👇
 
 1. [Start Here](https://github.com/Your-First-Open-Source-Project/start-here)
 2. [Community Website](https://github.com/Your-First-Open-Source-Project/main-website)
