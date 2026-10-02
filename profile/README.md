@@ -27,4 +27,4 @@ Our community website which our community members have developed is live over [h
 
 As part of this collaboration, **we encourage members of our open source community to participate in a preventive medicine & healthcare survey below**.
 
-[Join our efforts in our Open Source Research Collaboration to advance preventive medicine & healthcare systems worldwide](https://forms.gle/JCpkf4Ya3L2c2xjf7)
+[Join our efforts in our Open Source Research Collaboration to advance preventive medicine & healthcare systems worldwide](https://forms.gle/JCpkf4Ya3L2c2xjf7) 👈
