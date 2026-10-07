@@ -2,7 +2,7 @@
 
 ## About Us 🌎
 
-We are a diverse & inclusive community of **500+ members worldwide** from **50+ countries** who are passionate about open source and love contributing to open source projects and open soure research.
+We are a diverse & inclusive community of **500+ members worldwide** from **50+ countries** who are passionate about open source and love contributing to open source projects and open source research.
 
 We welcome all developers from beginners to experts to join our community and make their first open source contribution here.
 
