@@ -22,7 +22,7 @@ Our community website which our community members have developed is live over [h
 2. [Community Website](https://github.com/Your-First-Open-Source-Project/main-website)
 3. [AWS Educational Resources](https://github.com/Your-First-Open-Source-Project/aws-resources)
 
-## Latest Initiative as of Oct 2026 ❗
+## Latest Community Initiative & Partnership 🤝
 **YFOSP (Your First Open Source Project)** has recently partnered with **HealthPredictor.AI** for a Healthcare Awareness Program. 
 
 As part of this collaboration, **we encourage members of our open source community to participate in a preventive medicine & healthcare survey below**.
